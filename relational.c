@@ -1,4 +1,4 @@
-// take two number from user and perform logical operations.
+// take two number from user and perform relational operations.
 
 # include <stdio.h>
 int main() {
@@ -14,4 +14,5 @@ int main() {
     printf("a==b %d \n",a==b);
     printf("a!=b %d \n",a!=b);
     return 0;
+
 }    
